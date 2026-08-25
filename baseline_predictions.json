@@ -1,0 +1,127 @@
+[
+  {
+    "serial_no": 72,
+    "real_title": "MACHINE LEARNING FOR HEALTHCARE WEARABLE DEVICES",
+    "predicted_title": "Early Cancer Fatigue Detection and Management via Machine Learning-Enabled Wearable Biosensors for Enhanced Patient Care during Cancer Treatment"
+  },
+  {
+    "serial_no": 108,
+    "real_title": "IoT-Based Biomedical Monitoring System for Preventive Maternal Healthcare and Early Detection of Obstetric Complications.",
+    "predicted_title": "Design and Development of an Internet of Things-Based Biomedical Device for Early Detection of Severe Maternal Morbidity Risks in Vulnerable Regions of Colombia"
+  },
+  {
+    "serial_no": 78,
+    "real_title": "A Symmetric ICA-Based CDMA Receiver for Dense IoT-Enabled Healthcare Monitoring Systems.",
+    "predicted_title": "Symmetric Independent CDMA Receiver for Enhanced Multiuser Detection in Dense IoT-Enabled Healthcare Networks"
+  },
+  {
+    "serial_no": 65,
+    "real_title": "Federated Learning and Data Privacy in Connected Healthcare Devices",
+    "predicted_title": "Federated Learning in Connected Healthcare: Architectures, Privacy, and Real-World Applications for Precision Medicine and Trustworthy Healthcare Innovation"
+  },
+  {
+    "serial_no": 30,
+    "real_title": "AEGIS: A Semantic GAN and Evidential Learning Frameworkfor Robust Adversarial Detection in Vision Sensors",
+    "predicted_title": "Semantic Aware and Uncertainty Guided Adversarial Detection Framework for Robust Image Classification in Vision Sensor Networks (AEGIS)"
+  },
+  {
+    "serial_no": 28,
+    "real_title": "A Wearable IoT Aldehyde Sensor for Pediatric Asthma Research and Management",
+    "predicted_title": "Cloud-Based Wearable IoT Sensor System for Real-Time Monitoring of Aldehyde Exposure in Pediatric Asthma Patients"
+  },
+  {
+    "serial_no": 112,
+    "real_title": "Gerontechnology Acceptance in Thai Older Adult Care Facilities-Sensor Network and Machine Learning Adoption: Mixed Methods Study.",
+    "predicted_title": "Assessing the Readiness and Adoption Patterns of Sensor Network and Machine Learning Technologies in Thai Older Adult Care Facilities: A Mixed Methods Study Guided by the Gerontechnology Acceptance Model"
+  },
+  {
+    "serial_no": 123,
+    "real_title": "Real-World M3-BREATHE: Toward Multimodal Mobile Monitoring of Behaviour, Respiration, and Exposures for Treatment and Health Evaluation.",
+    "predicted_title": "Multimodal Mobile Monitoring of Behaviour, Respiration, and Exposures (M3-BREATHE) for Personalized Health Risk Assessment and Treatment"
+  },
+  {
+    "serial_no": 5,
+    "real_title": "Marine IoT Systems with Space-Air-Sea Integrated Networks: Hybrid LEO and UAV Edge Computing",
+    "predicted_title": "Hybrid Low-Earth Orbit and Unmanned Aerial Vehicle Edge Computing for Marine IoT Systems: Joint Optimization of Bit Allocation, Computation, and UAV Path Planning"
+  },
+  {
+    "serial_no": 55,
+    "real_title": "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+    "predicted_title": "Investigating Hardware Components for Designing Wearable Devices in the Internet of Medical Things (IoMT) Context: Front-End Components, Limitations, Opportunities, and Future Directions"
+  },
+  {
+    "serial_no": 76,
+    "real_title": "Digital twins in geriatrics and gerontology: Applications, challenges, and future directions.",
+    "predicted_title": "Digital Twin Technology in Geriatric and Gerontological Care: Potential, Challenges, and Future Research Priorities"
+  },
+  {
+    "serial_no": 12,
+    "real_title": "Fostering new Vertical and Horizontal IoT Applications with Intelligence Everywhere",
+    "predicted_title": "Enhancing IoT Applications in Vertical Sectors: A Framework for Intelligence Everywhere and Horizontal Development in Digital Health, Infrastructure, and Transportation/Mobility"
+  },
+  {
+    "serial_no": 70,
+    "real_title": "AI-Enhanced Secure Communication Protocols for Wearable and Implantable Medical Devices",
+    "predicted_title": "AI-Enhanced Secure Communication Protocols for Resource-Constrained Medical Devices in IoMT: An Adaptive, Efficient, and Scalable Approach for Data Privacy and Cybersecurity in Future Healthcare Systems"
+  },
+  {
+    "serial_no": 117,
+    "real_title": "Advances and Challenges in Wearable Sensors for Health Monitoring.",
+    "predicted_title": "Revolutionizing Healthcare with Wearable Sensors: A Comprehensive Review of State-of-the-Art Technologies and Future Directions"
+  },
+  {
+    "serial_no": 87,
+    "real_title": "Advances in Remote Monitoring Technology Applications in Anesthesia: A Narrative Review.",
+    "predicted_title": "Remote Monitoring in Anesthesia: A Comprehensive Review of Technologies, Applications, and Clinical Outcomes in the Perioperative Pathway"
+  },
+  {
+    "serial_no": 14,
+    "real_title": "Night-sky brightness monitoring in Hong Kong - a city-wide light pollution assessment",
+    "predicted_title": "Comprehensive Assessment of Light Pollution in Hong Kong: An Analysis of Urban and Rural Night-Sky Brightness"
+  },
+  {
+    "serial_no": 122,
+    "real_title": "Intelligent Biosensors for Diabetic Wound Monitoring.",
+    "predicted_title": "Smart Wound Monitoring: Integrating Front-End Interface Engineering and Back-End Data Analysis for Continuous Diabetic Wound Assessment"
+  },
+  {
+    "serial_no": 18,
+    "real_title": "The Patchkeeper: An Integrated Wearable Electronic Stethoscope with Multiple Sensors",
+    "predicted_title": "Wearable Electronic Stethoscope with Integrated Biological Sensors for Long-Term Internal Body Sound Recording and Vital Signal Monitoring"
+  },
+  {
+    "serial_no": 29,
+    "real_title": "An Authentication Protocol for Future Sensor Networks",
+    "predicted_title": "A Lightweight and Efficient Key Exchange and Authentication Protocol Suite for Secure Mobile Sensor Networks (SMSN)"
+  },
+  {
+    "serial_no": 32,
+    "real_title": "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition",
+    "predicted_title": "Fog-Based IoT Platform for Enhancing Remote Patient Monitoring Systems: Addressing Wireless Architecture Challenges and Improving Interactive Healthcare Services"
+  },
+  {
+    "serial_no": 36,
+    "real_title": "Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey",
+    "predicted_title": "A Comprehensive Review of Remote Sensing Spatio-Temporal Vision-Language Models: Advances, Challenges, and Future Directions"
+  },
+  {
+    "serial_no": 95,
+    "real_title": "Development and Validation of an IMU Sensor-Based Behaviour-Alert Detection Collar for Assistance Dogs: A Proof-of-Concept Study.",
+    "predicted_title": "Automated Seizure Alert Detection in Assistance Dogs: A Wearable Behavior-Alert Collar Using Machine Learning and Inertial Sensors"
+  },
+  {
+    "serial_no": 4,
+    "real_title": "Security for the Industrial IoT: The Case for Information-Centric Networking",
+    "predicted_title": "Secure and Robust Networking Solutions for Industrial Safety Systems Using Information Centric Networking: A Comparative Analysis with CoAP and MQTT"
+  },
+  {
+    "serial_no": 15,
+    "real_title": "SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection",
+    "predicted_title": "Machine Learning-Driven Framework for Enhanced Anomaly and Attack Detection in IoT-Enabled Healthcare Systems"
+  },
+  {
+    "serial_no": 82,
+    "real_title": "An Intelligent IoT-Compatible Arrhythmia Detection System Using a Hybrid Vision Transformer-LSTM Framework.",
+    "predicted_title": "Hybrid Deep Learning Approach for Automatic Arrhythmia Classification in IoT-Compatible Healthcare Systems using LSTM and Vision Transformer (ViT)"
+  }
+]

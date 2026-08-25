@@ -1,0 +1,457 @@
+[
+  {
+    "serial_no": 72,
+    "title": "MACHINE LEARNING FOR HEALTHCARE WEARABLE DEVICES",
+    "authors": [
+      "Kumutha Duraisamy D",
+      "Dharshini K, Jaya P",
+      "Nandhini V",
+      "Poornika M",
+      "Manjusha A",
+      "Mirudhula K"
+    ],
+    "journal": "IIP Series",
+    "abstract": "This paper introduces ―Early Cancer Fatigue Syndrome Detection via Wearable Biosensors,‖ a ground- breaking feature designed for healthcare wearables, utilising machine learning to monitor and manage cancer-related fatigue (CRF)—a common, debilitating side effect experienced by cancer patients during and after treatment. Current wearables focus on general health metrics, but this system integrates real-time monitoring of specific biomarkers related to CRF, such as heart rate variability, inflammatory markers (via skin sensors), and sleep disturbances. The machine learning model detects subtle, early signs of cancer-related fatigue by analysing these physiological changes in correlation with treatment cycles, stress levels, and patient-reported symptoms. This proactive system provides personalised interventions, such as energy management techniques, nutrition guidance, and exercise recommendations, aimed at reducing the impact of CRF and improving overall quality of life. By focusing on early detection and management of fatigue, this wearable innovation significantly enhances patient care during cancer treatment, improving both recovery rates and patient well-being. In addition, the system adapts to individual patient needs, adjusting recommendations based on treatment progress and personal health data. This dynamic approach ensures that patients receive timely, personalized support, preventing fatigue from interfering with treatment efficacy. By enhancing both physical and emotional care, the wearable not only aids in managing fatigue but also fosters a holistic approach to cancer recovery. This innovation represents a significant leap in cancer care, offering a tangible solution to one of the most pervasive yet under-treated aspects of cancer therapy.",
+    "publish_date": "2025-12-1",
+    "doi": "10.58532/nbennuraimlsw5",
+    "url": "https://doi.org/10.58532/nbennuraimlsw5",
+    "source": "crossref"
+  },
+  {
+    "serial_no": 108,
+    "title": "IoT-Based Biomedical Monitoring System for Preventive Maternal Healthcare and Early Detection of Obstetric Complications.",
+    "authors": [
+      "Diana Quiñonez",
+      "Yanira Benavides",
+      "Edgar Dulce-Villarreal",
+      "Alvaro Cervelion",
+      "Sixto Compaña"
+    ],
+    "journal": "Studies in health technology and informatics",
+    "abstract": "Severe Maternal Morbidity (SMM) is defined as the condition in which a woman survives life-threatening complications during pregnancy, childbirth, or the postpartum period, representing a key indicator of the quality of obstetric care. In Colombia, SMM remains a critical challenge, with recent increases in incidence and risk factors associated with sociodemographic inequalities and limited access to healthcare services. In this context, emerging technologies such as the Internet of Things (IoT) offer opportunities to strengthen maternal health prevention and remote monitoring. This study proposes the design and development of a biomedical IoT device aimed at the early detection of risks associated with SMM. The system, composed of hardware and software modules interconnected through secure communication protocols, was developed using a hybrid incremental-prototyping approach combined with the agile Scrum methodology, enabling progressive validation and continuous adaptability. The results include a functional prototype at Technology Readiness Level (TRL) 5, capable of recording and transmitting key physiological variables through GSM connectivity and secure networks. This development is expected to have a significant impact in vulnerable regions far from medical centers, where the device can serve as an initial diagnostic and early clinical support tool. Overall, the system represents progress toward more preventive, interconnected, and equitable maternal health environments, strengthening the capacity to respond effectively to obstetric emergencies.",
+    "publish_date": "2026",
+    "doi": "10.3233/SHTI260711",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175378/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 78,
+    "title": "A Symmetric ICA-Based CDMA Receiver for Dense IoT-Enabled Healthcare Monitoring Systems.",
+    "authors": [
+      "Muhammad Irfan Anjum",
+      "Abdullah Waqas",
+      "Asad Saleem"
+    ],
+    "journal": "Sensors (Basel, Switzerland)",
+    "abstract": "The rapid development of Internet of Things (IoT)-enabled healthcare systems, including wearable medical sensors and remote patient monitoring devices, has led to dense multiuser communication scenarios in which numerous low-power devices simultaneously transmit physiological data. In such environments, multiuser interference significantly degrades reliability and increases error rates, which may compromise clinical decision-making. This paper proposes a real-time symmetric Independent Component Analysis (ICA)-based Code Division Multiple Access (CDMA) receiver, termed symmetric independent CDMA (i-CDMA) receiver, to enhance multiuser detection in dense healthcare IoT networks. Unlike conventional ICA-CDMA receivers that utilize the orthogonality of users' spreading codes and higher-order statistics (HoS) of users' message symbols in signal separation, the proposed approach utilizes a symmetric independence process that jointly utilizes the independence of separating codes and the statistical independence of users' message symbols. The proposed receiver avoids the runtime optimization of scaling parameter for different user densities and SNR conditions. Furthermore, a modified whitening transform is introduced to exploit the complete signal-plus-noise subspace while avoiding overlearning. Simulation results demonstrate significant performance improvement over symmetric Gram-Schmidt orthogonalization-based standard ICA-CDMA receiver in terms of bit error rate (BER) under varying SNR and user-density scenarios for both uplink and downlink systems. The proposed receiver provides a scalable and interference-resilient communication framework suitable for real-time IoT-enabled healthcare monitoring applications.",
+    "publish_date": "2026",
+    "doi": "10.1002/sat.70037",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515383/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 65,
+    "title": "Federated Learning and Data Privacy in Connected Healthcare Devices",
+    "authors": [
+      "A Thanikasalam",
+      "S Bharathi",
+      "Amit Kumar Bhakta"
+    ],
+    "journal": "Machine Learning and Deep Learning in Smart Healthcare Systems and Implantable Devices",
+    "abstract": "Federated learning has emerged as a transformative paradigm for secure and intelligent healthcare systems, enabling collaborative model training without centralized data aggregation. This book chapter explores the architectural foundations, privacy-preserving techniques, and real-world applications of federated learning in connected healthcare environments. The discussion emphasizes the integration of decentralized artificial intelligence with Internet of Medical Things (IoMT) devices, facilitating clinical decision support, real-time health prediction, and continuous patient monitoring while maintaining strict compliance with data protection regulations. The chapter examines communication frameworks, model update mechanisms, and scalable system architectures that ensure interoperability across diverse healthcare infrastructures. Security challenges such as data poisoning, inference attacks, and model inversion are analyzed in conjunction with robust defense mechanisms including differential privacy, secure multi-party computation, and homomorphic encryption. Through an in-depth examination of federated learning’s role in privacy-preserving analytics, this work highlights its potential to revolutionize precision medicine, telehealth, and patient-centric digital ecosystems. The synthesis of distributed intelligence and ethical AI practices positions federated learning as a cornerstone technology for the future of connected and trustworthy healthcare innovation.",
+    "publish_date": "2026-1-14",
+    "doi": "10.71443/9789349552036-13",
+    "url": "https://doi.org/10.71443/9789349552036-13",
+    "source": "crossref"
+  },
+  {
+    "serial_no": 30,
+    "title": "AEGIS: A Semantic GAN and Evidential Learning Frameworkfor Robust Adversarial Detection in Vision Sensors",
+    "authors": [
+      "Maher Boughdiri",
+      "Mounira Msahli",
+      "Albert Bifet"
+    ],
+    "journal": "Sensors, Volume 26 (2026)",
+    "abstract": "Deep neural networks (DNNs) have shown outstanding performance in visual recognition tasks within vision sensor networks; however, they are still vulnerable to adversarial manipulations and imperceptible perturbations that can lead to erroneous predictions. To address that, this paper presents AEGIS, a semantic aware and uncertainty guided adversarial detection framework designed for robust image classification in vision sensors pipelines. At its core, a SemantiGAN module functions as a multi class semantic discriminator, identifying and filtering visually inconsistent adversarial inputs before they propagate further in the pipeline. For inputs that pass this stage, a stochastic augmentation process generates test time variations, from which handcrafted instability metrics FlipScore, Prediction Inconsistency, Layerwise Cosine Similarity (early and mid layers), and Entropy are computed. These features are aggregated into a compact five dimensional vector and processed by an Evidential Deep Learning (EDL) classifier, which models output evidence using a Dirichlet distribution to yield both class predictions and calibrated uncertainty estimates. Evaluations on the Tiny ImageNet dataset across six categories clean, FGSM, PGD, patch based, functional, and geometric attacks demonstrate the effectiveness of AEGIS. The proposed framework achieves an AUROC of 92.1\\%, an AUPRC of 90.2\\%, and an accuracy of 90.7\\%, outperforming conventional softmax-based detectors in terms of detection performance, robustness, interpretability, and uncertainty calibration.",
+    "publish_date": "2026-06-25",
+    "doi": "10.3390/s26154729",
+    "url": "http://arxiv.org/abs/2606.28416v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 28,
+    "title": "A Wearable IoT Aldehyde Sensor for Pediatric Asthma Research and Management",
+    "authors": [
+      "Baichen Li",
+      "Quan Dong",
+      "R. Scott Downen",
+      "Nam Tran",
+      "J. Hunter Jackson",
+      "Dinesh Pillai",
+      "Mona Zaghloul",
+      "Zhenyu Li"
+    ],
+    "journal": null,
+    "abstract": "Mechanistic studies of pediatric asthma require objective measures of environmental exposure metrics correlated with physiological responses. Here we report a cloud-based wearable IoT sensor system which can measure an asthma patient's exposure to aldehydes, a known class of airway irritants, in real-life settings. The wrist-watch form sensor measures formaldehyde levels in air using fuel cell technology, and continuously operate over 7 days without recharging. Sensor data can be retrieved via Bluetooth Low Energy (BLE) communication. A smartphone app was developed as a gateway to transmit data to an informatics system deployed on Amazon Web Services (AWS) for data storage, management and analytics. Potential applications of this IoT sensor system include epidemiological studies of asthma development and exacerbation, personalized asthma management and environmental monitoring.",
+    "publish_date": "2018-11-18",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1811.07287v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 112,
+    "title": "Gerontechnology Acceptance in Thai Older Adult Care Facilities-Sensor Network and Machine Learning Adoption: Mixed Methods Study.",
+    "authors": [
+      "Metta Ongkasuwan",
+      "Uree Cheasakul",
+      "Akechai Judkrue",
+      "Pair Sajampun"
+    ],
+    "journal": "JMIR formative research",
+    "abstract": "Thailand is undergoing a rapid demographic transition, with an estimated 28% of the population expected to be aged 60 years or older by 2030. This shift creates an urgent demand for technology-enhanced solutions for older adults. Despite growing interest in Internet of Things (IoT) sensor networks and machine learning applications for older adult care, the patterns of technology acceptance and implementation readiness in Thai older adult care facilities remain underexplored. This study aimed to assess the readiness and adoption patterns of sensor network and machine learning technologies among older adults and care stakeholders in Thai older adult care facilities, guided by the Gerontechnology Acceptance Model (GTAM) and Service Exchange Value Creation Logic. A sequential explanatory mixed methods design was used. Phase 1 (quantitative) involved structured technology assessments by 12 health care technology specialists and survey administration to 120 consumer representatives (older adults, n=70; adult family members, n=50), stratified across Bangkok and Chiang Mai. Phase 2 (qualitative) comprised 20 semistructured interviews and 3 purposively selected focus groups from phase 1 participants to elaborate on the quantitative findings. The primary theoretical framework was GTAM, mapping 5 constructs (perceived usefulness, ease of use, social influence, facilitating conditions, and behavioral intention) to corresponding survey items. This study was approved by the Assumption University Institutional Review Board (AU-IRB 80/2024) and is registered under a noninterventional observational design; formal clinical trial registration was not applicable. IoT fall detection systems received the highest clinical efficacy ratings from specialists (mean 4.5, SD 0.3 on a 5-point scale) and achieved 89% user acceptance. Artificial intelligence-driven early warning systems demonstrated the highest perceived clinical impact (mean 4.7, SD 0.2) but also the greatest implementation complexity (mean 4.2, SD 0.5). The consumer survey findings revealed that digital literacy level was the strongest predictor of behavioral adoption intention (β=.62; P<.001), with high-confidence participants showing 2.3 times higher acceptance rates than low-confidence participants. Significant geographic differences emerged: Bangkok respondents showed higher acceptance of medical IoT technologies (mean 4.3, SD 0.3; t119=1.98; P=.05), while Chiang Mai respondents reported a stronger preference for environmental digital health solutions (mean 4.5, SD 0.3; t119=4.12; P<.001) and elevated privacy concerns (mean 4.2, SD 0.4; P=.005). Qualitative analysis identified 5 themes: surveillance anxiety, family-mediated adoption, regional digital trust, training needs, and dignity-preserving technology design. Smart technology integration in Thai older adult care facilities is feasible and accepted across demographic groups when implemented in phases, culturally adapted, and supported by digital literacy training. Key adoption enablers were digital confidence, family involvement, and privacy-respecting design. The GTAM-derived findings offer an evidence-based framework for deploying gerontechnology in health care contexts in developing nations. Longitudinal outcome studies are needed to validate clinical and economic projections from prior literature.",
+    "publish_date": "2026",
+    "doi": "10.1080/14719037.2014.881539",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612072/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 123,
+    "title": "Real-World M3-BREATHE: Toward Multimodal Mobile Monitoring of Behaviour, Respiration, and Exposures for Treatment and Health Evaluation.",
+    "authors": [
+      "Wenbo Guo"
+    ],
+    "journal": "Journal of visualized experiments : JoVE",
+    "abstract": "The integration of mobile health (mHealth) technologies for continuous, real-time monitoring of physiological and behavioural signals, in concert with detailed measurement of environmental exposures, holds transformative potential for advancing personalized health risk assessment and enabling more effective treatment and intervention. In this protocol, I introduce a multimodal mobile monitoring system specifically designed to capture and integrate data on individual behaviour (daily activities and travel), respiratory function, physiological parameters and environmental exposures. The system combines mobile health devices and portable environmental sensors with GPS-enabled smartphone-based applications to generate synchronized, high-resolution data streams. These data are processed through a smart mobile phone application by incorporating physiological parameter calculation (e.g., physical activity intensity, respiratory rate) and external urban environmental data (e.g., urban green spaces, street view maps), after which a machine learning-based alert system was deployed to provide actionable insights into respiratory health, daily activities and mobility patterns, and exposure to risk factors. The protocol provides comprehensive and detailed guidance on hardware setup, software configuration, data acquisition procedures, and analytical workflows necessary for deploying the Multimodal Mobile Monitoring of Behaviour, Respiration, and Exposures (air pollution, noise, light, heat, greenness, etc.) for Treatment and Health Evaluation (M3-BREATHE) in both controlled clinical experiments and real-world contexts. This forward-looking M3-BREATHE platform establishes a scalable, non-invasive, and cost-efficient approach to longitudinal environment-mobility-health (E-M-H) monitoring, linking individual-level precision health in everyday life with long-term health intelligence at the population scale.",
+    "publish_date": "2026",
+    "doi": "10.3791/69900",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330004/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 5,
+    "title": "Marine IoT Systems with Space-Air-Sea Integrated Networks: Hybrid LEO and UAV Edge Computing",
+    "authors": [
+      "Sooyeob Jung",
+      "Seongah Jeong",
+      "Jinkyu Kang",
+      "Joonhyuk Kang"
+    ],
+    "journal": null,
+    "abstract": "Marine Internet of Things (IoT) systems have grown substantially with the development of non-terrestrial networks (NTN) via aerial and space vehicles in the upcoming sixth-generation (6G), thereby assisting environment protection, military reconnaissance, and sea transportation. Due to unpredictable climate changes and the extreme channel conditions of maritime networks, however, it is challenging to efficiently and reliably collect and compute a huge amount of maritime data. In this paper, we propose a hybrid low-Earth orbit (LEO) and unmanned aerial vehicle (UAV) edge computing method in space-air-sea integrated networks for marine IoT systems. Specifically, two types of edge servers mounted on UAVs and LEO satellites are endowed with computational capabilities for the real-time utilization of a sizable data collected from ocean IoT sensors. Our system aims at minimizing the total energy consumption of the battery-constrained UAV by jointly optimizing the bit allocation of communication and computation along with the UAV path planning under latency, energy budget and operational constraints. For availability and practicality, the proposed methods were developed for three different cases according to the accessibility of the LEO satellite, ``Always On,\" ``Always Off\" and ``Intermediate Disconnected\", by leveraging successive convex approximation (SCA) strategies. Via numerical results, we verify that significant energy savings can be accrued for all cases of LEO accessibility by means of joint optimization of bit allocation and UAV path planning compared to partial optimization schemes that design for only the bit allocation or trajectory of the UAV.",
+    "publish_date": "2023-01-10",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2301.03815v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 55,
+    "title": "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+    "authors": [
+      "Fayez Qureshi",
+      "Sridhar Krishnan"
+    ],
+    "journal": "Sensors",
+    "abstract": "As the life expectancy of individuals increases with recent advancements in medicine and quality of living, it is important to monitor the health of patients and healthy individuals on a daily basis. This is not possible with the current health care system in North America, and thus there is a need for wireless devices that can be used from home. These devices are called biomedical wearables, and they have become popular in the last decade. There are several reasons for that, but the main ones are: expensive health care, longer wait times, and an increase in public awareness about improving quality of life. With this, it is vital for anyone working on wearables to have an overall understanding of how they function, how they were designed, their significance, and what factors were considered when the hardware was designed. Therefore, this study attempts to investigate the hardware components that are required to design wearable devices that are used in the emerging context of the Internet of Medical Things (IoMT). This means that they can be used, to an extent, for disease monitoring through biosignal capture. In particular, this review study covers the basic components that are required for the front-end of any biomedical wearable, and the limitations that these wearable devices have. Furthermore, there is a discussion of the opportunities that they create, and the direction that the wearable industry is heading in.",
+    "publish_date": "2018-11-7",
+    "doi": "10.3390/s18113812",
+    "url": "https://doi.org/10.3390/s18113812",
+    "source": "crossref"
+  },
+  {
+    "serial_no": 76,
+    "title": "Digital twins in geriatrics and gerontology: Applications, challenges, and future directions.",
+    "authors": [
+      "Grace Oluwatoyin Faronbi",
+      "Emily James",
+      "Euphemia Murateng Matope",
+      "Doyin Blessing Bamidele",
+      "John Oluwatosin Alabi",
+      "David B Olawade"
+    ],
+    "journal": "Archives of gerontology and geriatrics",
+    "abstract": "The global population is ageing at an unprecedented rate, creating substantial pressures on healthcare systems to deliver personalised, proactive, and cost-effective care for older adults. Digital twin (DT) technology, where dynamic virtual replicas of physical entities are continuously updated through real-time data, has emerged as a transformative tool in precision medicine. Despite its growing application across clinical specialties, its specific utility within geriatrics and gerontology remains underexplored in the academic literature. This narrative review aims to synthesise existing evidence on the applications of digital twin technology in geriatric and gerontological care, examine associated challenges and identify future research priorities. A narrative review methodology was employed, with a systematic search of PubMed, Scopus, Web of Science, and IEEE Xplore databases covering publications from January 2014 to December 2025. Studies were selected based on relevance to digital twins, ageing populations, or geriatric clinical domains, with data synthesised thematically. Digital twins demonstrate significant potential benefit across multiple geriatric domains, with use in cardiovascular monitoring, fall prevention, dementia management, polypharmacy optimisation, and chronic disease self-management. Key enablers include advances in Internet of Things (IoT), artificial intelligence, and electronic health records. Persistent challenges include data privacy concerns, interoperability deficits, computational costs, and ethical questions surrounding autonomy and consent in cognitively impaired populations. Digital twin technology holds considerable promise for revolutionising geriatric and gerontological care, by enabling hyper-personalised clinical decision-making, predictive risk management, and remote patient monitoring. Translating this potential into practice requires focused investment in regulatory frameworks, equitable access infrastructure, and interdisciplinary collaboration. Future research should prioritise standardisation, caregiver integration, and longitudinal validation studies within older adult populations.",
+    "publish_date": "2026",
+    "doi": "10.1016/j.archger.2026.106371",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42570533/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 12,
+    "title": "Fostering new Vertical and Horizontal IoT Applications with Intelligence Everywhere",
+    "authors": [
+      "Hung Cao",
+      "Monica Wachowicz",
+      "Rene Richard",
+      "Ching-Hsien Hsu"
+    ],
+    "journal": null,
+    "abstract": "Intelligence Everywhere is predicated on the seamless integration of IoT networks transporting a vast amount of data streams through many computing resources across an edge-to-cloud continuum, relying on the orchestration of distributed machine learning models. The result is an interconnected and collective intelligent ecosystem where devices, systems, services, and users work together to support IoT applications. This paper discusses the state-of-the-art research and the principles of the Intelligence Everywhere framework for enhancing IoT applications in vertical sectors such as Digital Health, Infrastructure, and Transportation/Mobility in the context of intelligent society (Society 5.0). It also introduces a novel perspective for the development of horizontal IoT applications, capable of running across various IoT networks while fostering collective intelligence across diverse sectors. Finally, this paper provides comprehensive insights into the challenges and opportunities for harnessing collective knowledge from real-time insights, leading to optimised processes and better overall collaboration across different IoT sectors.",
+    "publish_date": "2023-09-30",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2310.00346v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 70,
+    "title": "AI-Enhanced Secure Communication Protocols for Wearable and Implantable Medical Devices",
+    "authors": [
+      "Ankita Avthankar",
+      "Rakesh. G",
+      "P D Selvam"
+    ],
+    "journal": "Machine Learning and Deep Learning in Smart Healthcare Systems and Implantable Devices",
+    "abstract": "The rapid advancement of wearable and implantable medical devices has revolutionized healthcare by enabling continuous monitoring and real-time data transmission. However, the increasing interconnectivity of these devices within the Internet of Medical Things (IoMT) presents significant cybersecurity challenges. Traditional security frameworks, often too resource-intensive for resource-constrained devices, fail to provide adequate protection against emerging threats. This chapter explores the integration of artificial intelligence (AI) into secure communication protocols for medical devices, offering an adaptive, efficient, and scalable solution to safeguard sensitive health data. AI-driven encryption, anomaly detection, and threat prediction models provide real-time security while minimizing energy consumption and computational overhead. Federated learning and edge intelligence further enhance data privacy by ensuring that medical data remains decentralized and protected during model training. Privacy-preserving techniques, including differential privacy, homomorphic encryption, and secure multiparty computation, are critically examined for their effectiveness in preventing unauthorized access to patient data. Through comprehensive analysis of the current state-of-the-art in AI-enhanced secure medical communication, this chapter provides insights into the future of intelligent, privacy-conscious, and resilient healthcare systems. The findings emphasize the need for transparent, ethically governed AI models that maintain compliance with global data protection standards while advancing the capabilities of next-generation biomedical technologies.",
+    "publish_date": "2026-1-14",
+    "doi": "10.71443/9789349552036-14",
+    "url": "https://doi.org/10.71443/9789349552036-14",
+    "source": "crossref"
+  },
+  {
+    "serial_no": 117,
+    "title": "Advances and Challenges in Wearable Sensors for Health Monitoring.",
+    "authors": [
+      "Laís Canniatti Brazaca",
+      "Alvaro Moreno Lozano",
+      "Beatriz Mayol",
+      "Desiree Tamara Scheidt",
+      "Domenico De Fazio",
+      "Enji Kim",
+      "Gabriel Maroli",
+      "Giulio Rosati",
+      "Hatice Ceren Ates",
+      "Hui Wang",
+      "Hye Jin Kim",
+      "Ji-Hwan Ha",
+      "Jin Yang",
+      "Jisoo Jeon",
+      "Jörg Goldhahn",
+      "Keval K Sonigara",
+      "La Li",
+      "Mingyu Zhou",
+      "Seokjoo Cho",
+      "Shicheng Fan",
+      "Shuang Wu",
+      "Vanessa Matos Gonçalves",
+      "Vitor H B Dei Santi",
+      "Weixin Zhou",
+      "Wenzheng Heng",
+      "Won Gi Chung",
+      "Xinming Li",
+      "Yang Zou",
+      "Yunxia Jin",
+      "Zixuan Wu",
+      "Amay J Bandodkar",
+      "Arben Merkoçi",
+      "Can Dincer",
+      "Chwee Teck Lim",
+      "Dae-Hyeong Kim",
+      "Emanuel Carrilho",
+      "Giovanni Antonio Salvatore",
+      "Guozhen Shen",
+      "Inkyu Park",
+      "Itthipon Jeerapan",
+      "Jang-Ung Park",
+      "Jin Wu",
+      "John S Ho",
+      "John Rogers",
+      "Joseph Wang",
+      "Kevin W Plaxco",
+      "Maria Cristina Ferreira de Oliveira",
+      "Martin Pumera",
+      "Noé Brasier",
+      "Omid Veiseh",
+      "Pooi See Lee",
+      "Vladimir V Tsukruk",
+      "Wei Gao",
+      "Yong Zhu",
+      "Zhong Lin Wang",
+      "Zhou Li",
+      "Juliane Sempionatto",
+      "Osvaldo N Oliveira"
+    ],
+    "journal": "ACS applied materials & interfaces",
+    "abstract": "Analytical tools may revolutionize healthcare by enabling accessible, rapid, and decentralized testing. Wearable (bio)sensors, in particular, provide frequent or continuous patient monitoring through non- to minimally invasive measurements. This approach yields unprecedented amounts of health-related information, leading to more informed clinical decision-making and closer patient follow-up. In this mega-review article, we bring together leading researchers in the field to discuss the state of the art in wearable devices for health monitoring. We begin by providing a broad overview of the field through citation network analysis. We then review the application of chemical (bio)sensors in biofluids (e.g., sweat, saliva, tears, interstitial fluid, and cerebrospinal fluid), highlighting the challenges and advantages associated with each. Subsequently, we discuss the construction of wearable devices and their main formats (e.g., smart contact lenses, textiles, mouthguards, watches/wristbands, and implantable systems). Physical sensors are addressed in a dedicated section focusing on the assessment of heart rate, blood pressure, and body temperature. The role of soft electronics in wearable devices is also examined, as these technologies are essential for enhancing user comfort and sensor reliability, which demands advances in materials science. Furthermore, we present strategies for signal acquisition and transmission, as well as approaches for on-body energy harvesting and device self-powering. The use of artificial intelligence and machine learning is then discussed as a means of enhancing analytical performance and managing the large volumes of data generated by wearable devices. Finally, business, regulatory, and ethical considerations are examined. We expect that this review will provide an overview of sensing and biosensing technologies for health-related applications, identify promising research directions, and inspire future developments.",
+    "publish_date": "2026",
+    "doi": "10.1016/j.landig.2025.01.002",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42460879/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 87,
+    "title": "Advances in Remote Monitoring Technology Applications in Anesthesia: A Narrative Review.",
+    "authors": [
+      "Lixin Chen",
+      "Songhe Cheng",
+      "Libing Zhang",
+      "Huan Li",
+      "Zehua Tu",
+      "Xiaodong Cai"
+    ],
+    "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+    "abstract": "The swift progress of digital and sensor technologies is hastening the incorporation of remote monitoring into anesthesiology. While several reviews have explored telemedicine and artificial intelligence in anesthesia, most existing summaries either focus on conceptual outlook or lack systematic comparison of technical platforms and original clinical validation data. The present review provides a comprehensive, clinically oriented synthesis of remote monitoring in anesthesia, with clear focuses on technical principles, perioperative applications, platform comparisons, and evidence-based clinical outcomes. We critically assess clinical advantages and implementation hurdles, covering the full perioperative pathway - preoperative evaluation, intraoperative observation, and postoperative recovery. A head-to-head comparison of fifth generation of cellular network technology (5G), the Internet of Things (IoT), and cloud computing platforms is presented to clarify their infrastructure demands and suitability for real-world clinical scenarios. Notably, this review summarizes available clinical evidence, including evidence from the Trial of Remote Continuous versus Intermittent National Early Warning Score Monitoring after major surgery (TRaCINg) - a feasibility randomized controlled trial whose exploratory findings suggest that continuous remote monitoring may reduce unplanned intensive care unit admissions, shorten hospital stays, and facilitate earlier detection of postoperative complications. We further propose innovative solutions including multimodal data fusion and federated learning-driven predictive analytics to overcome current limitations in data interoperability, security, and clinical effectiveness. Accordingly, this paper synthesizes the latest advances in remote monitoring technology in anesthesia, clarifies its unique value relative to existing reviews, and provides practical guidance for clinical translation and future research.",
+    "publish_date": "2026",
+    "doi": "10.30953/bhty.v8.379",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42381266/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 14,
+    "title": "Night-sky brightness monitoring in Hong Kong - a city-wide light pollution assessment",
+    "authors": [
+      "Chun Shing Jason Pun",
+      "Chu Wing So"
+    ],
+    "journal": "Environmental Monitoring and Assessment 184 (2012) 2537-2557",
+    "abstract": "Results of the first comprehensive light pollution survey in Hong Kong are presented. The night-sky brightness was measured and monitored around the city using a portable light sensing device called the Sky Quality Meter over a 15-month period beginning in March 2008. A total of 1,957 data sets were taken at 199 distinct locations, including urban and rural sites covering all 18 Administrative Districts of Hong Kong. The survey shows that the environmental light pollution problem in Hong Kong is severe - the urban night-skies (sky brightness at 15.0 mag per arcsec square) are on average ~100 times brighter than at the darkest rural sites (20.1 mag per arcsec square), indicating that the high lighting densities in the densely populated residential and commercial areas lead to light pollution. In the worst polluted urban location studied, the night-sky at 13.2 mag per arcsec square can be over 500 times brighter than the darkest sites in Hong Kong. The observed night-sky brightness is found to be affected by human factors such as land utilization and population density of the observation sites, together with meteorological and/or environmental factors. Moreover, earlier night-skies (at 9:30pm local time) are generally brighter than later time (at 11:30pm), which can be attributed to some public and commercial lightings being turned off later at night. On the other hand, no concrete relationship between the observed sky brightness and air pollutant concentrations could be established with the limited survey sampling. Results from this survey will serve as an important database for the public to assess whether new rules and regulations are necessary to control the use of outdoor lightings in Hong Kong.",
+    "publish_date": "2011-06-20",
+    "doi": "10.1007/s10661-011-2136-1",
+    "url": "http://arxiv.org/abs/1106.3842v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 122,
+    "title": "Intelligent Biosensors for Diabetic Wound Monitoring.",
+    "authors": [
+      "Shuqin Li",
+      "Xiu-Hong Wang"
+    ],
+    "journal": "Biosensors",
+    "abstract": "Diabetic chronic wounds, characterized by persistent inflammation and a complex microenvironment, pose a major challenge to global healthcare. Traditional dressings act merely as passive physical barriers, lacking the ability to sense biochemical fluctuations or respond to dynamic pathological changes. Therefore, developing smart platforms for in situ, continuous, and non-invasive monitoring is crucial for early warning and precision intervention. This review systematically explores recent advances in high-fidelity wound monitoring, focusing on the deep integration of \"front-end interface engineering\" and \"back-end data analysis\". We first analyze the specific physicochemical and biochemical abnormalities of the diabetic wound microenvironment. Next, we discuss how advanced material designs, such as active fluid management, anti-biofouling zwitterionic networks, and nanozyme-based reactive oxygen species (ROS) scavenging, ensure the long-term stability of sensing interfaces against complex microenvironmental interference. Building on this hardware foundation, we summarize in situ sensing strategies and multiparameter decoupling techniques tailored for key biomarkers, including pH, temperature, glucose, ROS, and MMP-9. Furthermore, we highlight cutting-edge developments in signal digitization, emphasizing the pivotal role of portable devices and machine learning algorithms in extracting high-dimensional features and translating complex multimodal signals into objective clinical metrics. By outlining this comprehensive technological closed-loop, this review aims to provide a systematic theoretical framework for the development and clinical translation of next-generation smart wound monitoring platforms.",
+    "publish_date": "2026",
+    "doi": "10.1016/j.tibtech.2022.12.005",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42345863/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 18,
+    "title": "The Patchkeeper: An Integrated Wearable Electronic Stethoscope with Multiple Sensors",
+    "authors": [
+      "Hongwei Li",
+      "Zoran Radivojevic",
+      "Maja Hedlund",
+      "Anton Fahlgren",
+      "Michael S. Eggleston"
+    ],
+    "journal": null,
+    "abstract": "Many parts of human body generate internal sound during biological processes, which are rich sources of information for understanding health and wellbeing. Despite a long history of development and usage of stethoscopes, there is still a lack of proper tools for recording internal body sound together with complementary sensors for long term monitoring. In this paper, we show our development of a wearable electronic stethoscope, coined Patchkeeper (PK), that can be used for internal body sound recording over long periods of time. Patchkeeper also integrates several state-of-the-art biological sensors, including electrocardiogram (ECG), photoplethysmography (PPG), and inertial measurement unit (IMU) sensors. As a wearable device, Patchkeeper can be placed on various parts of the body to collect sound from particular organs, including heart, lung, stomach, and joints etc. We show in this paper that several vital signals can be recorded simultaneously with high quality. As Patchkeeper can be operated directly by the user, e.g. without involving health care professionals, we believe it could be a useful tool for telemedicine and remote diagnostics.",
+    "publish_date": "2024-07-16",
+    "doi": null,
+    "url": "http://arxiv.org/abs/2407.11837v3",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 29,
+    "title": "An Authentication Protocol for Future Sensor Networks",
+    "authors": [
+      "Muhammad Bilal",
+      "Shin-Gak Kang"
+    ],
+    "journal": "Sensors 2017, 17(5), 979",
+    "abstract": "Authentication is one of the essential security services in Wireless Sensor Networks (WSNs) for ensuring secure data sessions. Sensor node authentication ensures the confidentiality and validity of data collected by the sensor node, whereas user authentication guarantees that only legitimate users can access the sensor data. In a mobile WSN, sensor and user nodes move across the network and exchange data with multiple nodes, thus experiencing the authentication process multiple times. The integration of WSNs with Internet of Things (IoT) brings forth a new kind of WSN architecture along with stricter security requirements; for instance, a sensor node or a user node may need to establish multiple concurrent secure data sessions. With concurrent data sessions, the frequency of the re-authentication process increases in proportion to the number of concurrent connections, which makes the security issue even more challenging. The currently available authentication protocols were designed for the autonomous WSN and do not account for the above requirements. In this paper, we present a novel, lightweight and efficient key exchange and authentication protocol suite called the Secure Mobile Sensor Network (SMSN) Authentication Protocol. In the SMSN a mobile node goes through an initial authentication procedure and receives a re-authentication ticket from the base station. Later a mobile node can use this re-authentication ticket when establishing multiple data exchange sessions and/or when moving across the network. This scheme reduces the communication and computational complexity of the authentication process. We proved the strength of our protocol with rigorous security analysis and simulated the SMSN and previously proposed schemes in an automated protocol verifier tool. Finally, we compared the computational complexity and communication cost against well-known authentication protocols.",
+    "publish_date": "2017-05-02",
+    "doi": "10.3390/s17050979",
+    "url": "http://arxiv.org/abs/1705.00764v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 32,
+    "title": "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition",
+    "authors": [
+      "Marc Jayson Baucas",
+      "Petros Spachos"
+    ],
+    "journal": "IEEE Sensors Journal, vol. 23, no. 15, pp. 17611-17618, 1 Aug.1, 2023",
+    "abstract": "Due to the recent shortage of resources in the healthcare industry, Remote Patient Monitoring (RPM) systems arose to establish a convenient alternative for accessing healthcare services remotely. However, as the usage of this system grows with the increase of patients and sensing devices, data and network management becomes an issue. As a result, wireless architecture challenges in patient privacy, data flow, and service interactability surface that need addressing. We propose a fog-based Internet of Things (IoT) platform to address these issues and reinforce the existing RPM system. The introduced platform can allocate resources to alleviate server overloading and provide an interactive means of monitoring patients through speech recognition. We designed a testbed to simulate and test the platform in terms of accuracy, latency, and throughput. The results show the platform's potential as a viable RPM system for sound-based healthcare services.",
+    "publish_date": "2025-11-10",
+    "doi": "10.1109/JSEN.2023.3287916",
+    "url": "http://arxiv.org/abs/2511.07189v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 36,
+    "title": "Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey",
+    "authors": [
+      "Chenyang Liu",
+      "Jiafan Zhang",
+      "Keyan Chen",
+      "Man Wang",
+      "Zhengxia Zou",
+      "Zhenwei Shi"
+    ],
+    "journal": "IEEE Geoscience and Remote Sensing Magazine, 2025",
+    "abstract": "The interpretation of multi-temporal remote sensing imagery is critical for monitoring Earth's dynamic processes-yet previous change detection methods, which produce binary or semantic masks, fall short of providing human-readable insights into changes. Recent advances in Vision-Language Models (VLMs) have opened a new frontier by fusing visual and linguistic modalities, enabling spatio-temporal vision-language understanding: models that not only capture spatial and temporal dependencies to recognize changes but also provide a richer interactive semantic analysis of temporal images (e.g., generate descriptive captions and answer natural-language queries). In this survey, we present the first comprehensive review of RS-STVLMs. The survey covers the evolution of models from early task-specific models to recent general foundation models that leverage powerful large language models. We discuss progress in representative tasks, such as change captioning, change question answering, and change grounding. Moreover, we systematically dissect the fundamental components and key technologies underlying these models, and review the datasets and evaluation metrics that have driven the field. By synthesizing task-level insights with a deep dive into shared architectural patterns, we aim to illuminate current achievements and chart promising directions for future research in spatio-temporal vision-language understanding for remote sensing. We will keep tracing related works at https://github.com/Chen-Yang-Liu/Awesome-RS-SpatioTemporal-VLMs",
+    "publish_date": "2024-12-03",
+    "doi": "10.1109/MGRS.2025.3598283",
+    "url": "http://arxiv.org/abs/2412.02573v3",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 95,
+    "title": "Development and Validation of an IMU Sensor-Based Behaviour-Alert Detection Collar for Assistance Dogs: A Proof-of-Concept Study.",
+    "authors": [
+      "Shelley Brady",
+      "Alan F Smeaton",
+      "Hailin Song",
+      "Tomás Ward",
+      "Aoife Smeaton",
+      "Jennifer Dowler"
+    ],
+    "journal": "Animals : an open access journal from MDPI",
+    "abstract": "Assistance dogs have shown promise in alerting to epileptic seizures in their owners, but current approaches often lack consistency, standardisation, and objective validation. This proof-of-concept study presents the development and initial validation of a wearable behaviour-alert detection collar developed for trained assistance dogs. It demonstrates the technical feasibility for automated detection of trained signalling behaviours. The collar integrates an inertial sensor and machine learning pipeline to detect a specific, trained alert behaviour of two rapid clockwise spins used by dogs to signal a seizure event. Data were collected from six trained dogs, resulting in 135 labelled spin alerts. Although the dataset size is limited compared to other machine learning applications, this reflects the real-world constraint that it is not practical for assistance dogs to perform excessive spin signalling during their training. Four supervised machine learning models (Random Forest, Logistic Regression, Naïve Bayes, and SVM) were evaluated on segmented accelerometer and gyroscope data. Random Forest achieved the highest performance (F1-score = 0.65; accuracy = 92%) under a Leave-One-DOG-Out (LODO) protocol. The system represents a novel step toward combining intentional canine behaviours with wearable technology, aligning with trends on the Internet of Medical Things. This proof-of-concept demonstrates technical feasibility and provides a foundation for future development of real-time seizure-alerting systems, representing an important first step toward scalable animal-assisted healthcare innovation.",
+    "publish_date": "2025",
+    "doi": "10.1007/s00521-024-10197-z",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41227412/",
+    "source": "pubmed"
+  },
+  {
+    "serial_no": 4,
+    "title": "Security for the Industrial IoT: The Case for Information-Centric Networking",
+    "authors": [
+      "Michael Frey",
+      "Cenk Gündoğan",
+      "Peter Kietzmann",
+      "Martine Lenders",
+      "Hauke Petersen",
+      "Thomas C. Schmidt",
+      "Felix Shzu-Juraschek",
+      "Matthias Wählisch"
+    ],
+    "journal": "Proceedings of the IEEE World Forum on Internet of Things (WF-IoT), 2019",
+    "abstract": "Industrial production plants traditionally include sensors for monitoring or documenting processes, and actuators for enabling corrective actions in cases of misconfigurations, failures, or dangerous events. With the advent of the IoT, embedded controllers link these `things' to local networks that often are of low power wireless kind, and are interconnected via gateways to some cloud from the global Internet. Inter-networked sensors and actuators in the industrial IoT form a critical subsystem while frequently operating under harsh conditions. It is currently under debate how to approach inter-networking of critical industrial components in a safe and secure manner.   In this paper, we analyze the potentials of ICN for providing a secure and robust networking solution for constrained controllers in industrial safety systems. We showcase hazardous gas sensing in widespread industrial environments, such as refineries, and compare with IP-based approaches such as CoAP and MQTT. Our findings indicate that the content-centric security model, as well as enhanced DoS resistance are important arguments for deploying Information Centric Networking in a safety-critical industrial IoT. Evaluation of the crypto efforts on the RIOT operating system for content security reveal its feasibility for common deployment scenarios.",
+    "publish_date": "2018-10-10",
+    "doi": null,
+    "url": "http://arxiv.org/abs/1810.04645v2",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 15,
+    "title": "SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection",
+    "authors": [
+      "Mahek Desai",
+      "Apoorva Rumale",
+      "Marjan Asadinia"
+    ],
+    "journal": "2025 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, 2025, pp. 0521-0528",
+    "abstract": "The integration of IoT devices in healthcare introduces significant security and reliability challenges, increasing susceptibility to cyber threats and operational anomalies. This study proposes a machine learning-driven framework for (1) detecting malicious cyberattacks and (2) identifying faulty device anomalies, leveraging a dataset of 200,000 records. Eight machine learning models are evaluated across three learning approaches: supervised learning (XGBoost, K-Nearest Neighbors (K- NN)), semi-supervised learning (Generative Adversarial Networks (GAN), Variational Autoencoders (VAE)), and unsupervised learning (One-Class Support Vector Machine (SVM), Isolation Forest, Graph Neural Networks (GNN), and Long Short-Term Memory (LSTM) Autoencoders). The comprehensive evaluation was conducted across multiple metrics like F1-score, precision, recall, accuracy, ROC-AUC, computational efficiency. XGBoost achieved 99\\% accuracy with minimal computational overhead (0.04s) for anomaly detection, while Isolation Forest balanced precision and recall effectively. LSTM Autoencoders underperformed with lower accuracy and higher latency. For attack detection, KNN achieved near-perfect precision, recall, and F1-score with the lowest computational cost (0.05s), followed by VAE at 97% accuracy. GAN showed the highest computational cost with lowest accuracy and ROC-AUC. These findings enhance IoT-enabled healthcare security through effective anomaly detection strategies. By improving early detection of cyber threats and device failures, this framework has the potential to prevent data breaches, minimize system downtime, and ensure the continuous and safe operation of medical devices, ultimately safeguarding patient health and trust in IoT-driven healthcare solutions.",
+    "publish_date": "2025-11-05",
+    "doi": "10.1109/AIIoT65859.2025.11105287",
+    "url": "http://arxiv.org/abs/2511.03661v1",
+    "source": "arxiv"
+  },
+  {
+    "serial_no": 82,
+    "title": "An Intelligent IoT-Compatible Arrhythmia Detection System Using a Hybrid Vision Transformer-LSTM Framework.",
+    "authors": [
+      "S Selva Birunda",
+      "V Vaissnave",
+      "K Abirami"
+    ],
+    "journal": "Cardiovascular engineering and technology",
+    "abstract": "In electrocardiogram (ECG) signal classification, advanced IoT-compatible systems and medical signal processing solutions have become feasible due to the rapid growth of the Internet of Things (IoT). However, it is challenging to detect and classify arrhythmias because of the complex nature and large volumes of ECG data. This article proposes a hybrid deep learning (DL) approach by combining long short-term memory (LSTM)and a Vision Transformer (ViT) for the automatic arrhythmia classifi cation from ECG signals. This article proposes a hybrid deep learning (DL) approach by combining long short-term memory (LSTM)and a Vision Transformer (ViT) for the automatic arrhythmia classifi cation from ECG signals. Initially, the proposed framework gathers the data from the MIT-BIH database for training. Then, preprocessing strategies such as min-max normalization and signal-to-spectrogram conversion using the Stockwell transform are applied. Then, the imbalance problem in the collected dataset is rectifi ed by applying the K-Mean scentered Adaptive Synthetic Sampling (KMADASYN) technique. Afterward, the proposed framework employs the Hybrid Optimized ViT with Long Short-Term Memory (HOVLSTM) for classification, where spatial and temporal features are extracted to achieve higher classification performance. The developed model achieved a classification accuracy of 99.17%, out performing several existing ECG classification systems. These outcomes demonstrate that the proposed technique is suitable for IoT-compatible healthcare systems. While the IoT-compatible system does not employ data acquisition, the model is evaluated in a simulated IoT environment, demonstrating its potential for future deployment in IoT-enabled clinical decision-support systems.",
+    "publish_date": "2026",
+    "doi": "10.3390/biomimetics9110670",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42420590/",
+    "source": "pubmed"
+  }
+]

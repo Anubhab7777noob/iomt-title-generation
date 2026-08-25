@@ -1,0 +1,7 @@
+FROM ./mistral-7b.Q4_K_M.gguf
+
+TEMPLATE """{{ .Prompt }}"""
+
+PARAMETER stop "<|im_end|>"
+PARAMETER stop "</s>"
+PARAMETER temperature 0.3

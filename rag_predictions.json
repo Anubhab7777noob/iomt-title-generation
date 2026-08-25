@@ -1,0 +1,252 @@
+[
+  {
+    "serial_no": 72,
+    "real_title": "MACHINE LEARNING FOR HEALTHCARE WEARABLE DEVICES",
+    "predicted_title": "Early Cancer Fatigue Syndrome Detection via Wearable Biosensors: A Machine Learning Approach for Proactive Management of Cancer-Related Fatigue",
+    "retrieved_examples": [
+      "Chapter Name : Machine Learning Algorithms for Real Time ECG and EEG Signal Analysis in Wearable Devices",
+      "Identification of Early Signs of Mental Health Disorders in Older Survivors of Cancer Using Patient-Generated Health Data: Observational Study.",
+      "Internet of things and health monitoring of patients with cancer: A scoping review."
+    ]
+  },
+  {
+    "serial_no": 108,
+    "real_title": "IoT-Based Biomedical Monitoring System for Preventive Maternal Healthcare and Early Detection of Obstetric Complications.",
+    "predicted_title": "IoT-Based Biomedical Device for Early Detection of Severe Maternal Morbidity Risk in Remote Regions of Colombia.",
+    "retrieved_examples": [
+      "NurtureNest: an IoT-wearable predictive analytics framework for real-time maternal risk assessment.",
+      "IoT-Based Isolation Ward Monitoring System Prototype.",
+      "Design and Integration of IoT-Enabled Health Sensors for Remote Patient Monitoring"
+    ]
+  },
+  {
+    "serial_no": 78,
+    "real_title": "A Symmetric ICA-Based CDMA Receiver for Dense IoT-Enabled Healthcare Monitoring Systems.",
+    "predicted_title": "Symmetric Independent CDMA Receiver for Interference-Resilient IoT-Enabled Healthcare Monitoring.",
+    "retrieved_examples": [
+      "An ensemble of deep representation learning with metaheuristic optimisation algorithm for critical health monitoring using internet of medical things.",
+      "Reinforcement learning driven edge-cloud coordination for secure and energy efficient IoMT.",
+      "CNN-BiLSTM-Based Hybrid Deep Learning for Multi-Metric Anomaly Detection and Mitigation in Secure IoMT Healthcare WBANs."
+    ]
+  },
+  {
+    "serial_no": 65,
+    "real_title": "Federated Learning and Data Privacy in Connected Healthcare Devices",
+    "predicted_title": "Federated Learning in Connected Healthcare: Architectures, Applications, and Privacy-Preserving Techniques for Trustworthy AI",
+    "retrieved_examples": [
+      "Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges",
+      "Machine Learning and Deep Learning in Smart Healthcare Systems and Implantable Devices",
+      "Artificial intelligence for child health: current capabilities and the next frontier."
+    ]
+  },
+  {
+    "serial_no": 30,
+    "real_title": "AEGIS: A Semantic GAN and Evidential Learning Frameworkfor Robust Adversarial Detection in Vision Sensors",
+    "predicted_title": "Semantic Aware and Uncertainty Guided Adversarial Detection Framework for Robust Image Classification in Vision Sensor Networks",
+    "retrieved_examples": [
+      "A Novel Multi-Stage Training Approach for Human Activity Recognition from Multimodal Wearable Sensor Data Using Deep Neural Network",
+      "A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing",
+      "Chapter Name : Machine Learning Algorithms for Real Time ECG and EEG Signal Analysis in Wearable Devices"
+    ]
+  },
+  {
+    "serial_no": 28,
+    "real_title": "A Wearable IoT Aldehyde Sensor for Pediatric Asthma Research and Management",
+    "predicted_title": "Cloud-Based Wearable IoT Sensor for Real-Time Monitoring of Formaldehyde Exposure in Pediatric Asthma Patients",
+    "retrieved_examples": [
+      "Development of a Hospital Air Quality Monitoring Application Utilizing IoT Technology and Google Workspace: A Case Study of a Hospital in Mahasarakham, Thailand.",
+      "Design and Integration of IoT-Enabled Health Sensors for Remote Patient Monitoring",
+      "Wearable sensors for respiratory protection in occupational settings."
+    ]
+  },
+  {
+    "serial_no": 112,
+    "real_title": "Gerontechnology Acceptance in Thai Older Adult Care Facilities-Sensor Network and Machine Learning Adoption: Mixed Methods Study.",
+    "predicted_title": "Assessing Readiness and Adoption Patterns of Sensor Network and Machine Learning Technologies in Thai Older Adult Care Facilities: A Mixed Methods Study Guided by the Gerontechnology Acceptance Model.",
+    "retrieved_examples": [
+      "A Community-in-the-Loop Approach to Smart Home Monitoring for Aging in Place: Mixed Methods Evaluation of a Co-Designed Prototype.",
+      "Digital Transformation for Community-Based Elderly Care Model: An Innovative Prediction Service for Managing and Monitoring Chronic Disease.",
+      "Understanding the role of cybersecurity in the internet of things within the health sector: an empirical study."
+    ]
+  },
+  {
+    "serial_no": 123,
+    "real_title": "Real-World M3-BREATHE: Toward Multimodal Mobile Monitoring of Behaviour, Respiration, and Exposures for Treatment and Health Evaluation.",
+    "predicted_title": "Multimodal Mobile Monitoring of Behaviour, Respiration, and Exposures (M3-BREATHE): A Protocol for Longitudinal Environment-Mobility-Health (E-M-H) Monitoring and Personalized Health Risk Assessment",
+    "retrieved_examples": [
+      "Design and Integration of IoT-Enabled Health Sensors for Remote Patient Monitoring",
+      "Leveraging IoT for Patient Monitoring and Smart Healthcare",
+      "Development of a Hospital Air Quality Monitoring Application Utilizing IoT Technology and Google Workspace: A Case Study of a Hospital in Mahasarakham, Thailand."
+    ]
+  },
+  {
+    "serial_no": 5,
+    "real_title": "Marine IoT Systems with Space-Air-Sea Integrated Networks: Hybrid LEO and UAV Edge Computing",
+    "predicted_title": "Hybrid LEO-UAV Edge Computing for Energy-Efficient Marine IoT Systems via Joint Optimization of Bit Allocation and UAV Path Planning.",
+    "retrieved_examples": [
+      "A novel IoT-aware wearable sensor device for healthcare data management framework using hybrid optimization algorithm.",
+      "Reinforcement learning driven edge-cloud coordination for secure and energy efficient IoMT.",
+      "Autonomous Low Power IoT System Architecture for Cybersecurity Monitoring"
+    ]
+  },
+  {
+    "serial_no": 55,
+    "real_title": "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+    "predicted_title": "Investigation of Hardware Components for Front-end Design of Wearables in IoMT for Daily Health Monitoring",
+    "retrieved_examples": [
+      "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+      "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+      "Design and Integration of IoT-Enabled Health Sensors for Remote Patient Monitoring"
+    ]
+  },
+  {
+    "serial_no": 76,
+    "real_title": "Digital twins in geriatrics and gerontology: Applications, challenges, and future directions.",
+    "predicted_title": "Digital Twin Technology in Geriatric and Gerontological Care: A Narrative Review of Applications, Challenges, and Future Directions.",
+    "retrieved_examples": [
+      "Digital Transformation for Community-Based Elderly Care Model: An Innovative Prediction Service for Managing and Monitoring Chronic Disease.",
+      "Artificial intelligence for child health: current capabilities and the next frontier.",
+      "A Community-in-the-Loop Approach to Smart Home Monitoring for Aging in Place: Mixed Methods Evaluation of a Co-Designed Prototype."
+    ]
+  },
+  {
+    "serial_no": 12,
+    "real_title": "Fostering new Vertical and Horizontal IoT Applications with Intelligence Everywhere",
+    "predicted_title": "Enhancing IoT Applications in Vertical and Horizontal Sectors: The Intelligence Everywhere Framework for an Interconnected Intelligent Ecosystem.",
+    "retrieved_examples": [
+      "Transforming Smart Healthcare Systems with AI-Driven Edge Computing for Distributed IoMT Networks.",
+      "Leveraging IoT for Patient Monitoring and Smart Healthcare",
+      "Introduction to IoT"
+    ]
+  },
+  {
+    "serial_no": 70,
+    "real_title": "AI-Enhanced Secure Communication Protocols for Wearable and Implantable Medical Devices",
+    "predicted_title": "AI-Enhanced Secure Communication Protocols for Privacy-Preserving IoMT in Healthcare",
+    "retrieved_examples": [
+      "Reinforcement learning driven edge-cloud coordination for secure and energy efficient IoMT.",
+      "AI-Enabled Adaptive Control Systems for Intelligent Pacemakers and Cardiac Rhythm Devices",
+      "Artificial intelligence for child health: current capabilities and the next frontier."
+    ]
+  },
+  {
+    "serial_no": 117,
+    "real_title": "Advances and Challenges in Wearable Sensors for Health Monitoring.",
+    "predicted_title": "Wearable Sensing and Biosensing Technologies for Health Monitoring: A Mega-Review of Devices, Analytics, and Applications",
+    "retrieved_examples": [
+      "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+      "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+      "Wearable sensors for respiratory protection in occupational settings."
+    ]
+  },
+  {
+    "serial_no": 87,
+    "real_title": "Advances in Remote Monitoring Technology Applications in Anesthesia: A Narrative Review.",
+    "predicted_title": "Remote Monitoring in Anesthesia: A Comprehensive Review of Technologies, Applications, and Clinical Outcomes",
+    "retrieved_examples": [
+      "IoT Based Remote Patient Monitoring and Telemedicine Solutions for Accessible and Cost Effective Healthcare Services",
+      "Remote Patient Monitoring Based on IoT Technologies",
+      "Internet of things and health monitoring of patients with cancer: A scoping review."
+    ]
+  },
+  {
+    "serial_no": 14,
+    "real_title": "Night-sky brightness monitoring in Hong Kong - a city-wide light pollution assessment",
+    "predicted_title": "Comprehensive Assessment of Light Pollution in Hong Kong: Quantifying Urban-Rural Brightness Differences and Human Impact on Night-Sky Brightness",
+    "retrieved_examples": [
+      "The life of a New York City noise sensor network",
+      "Sampling Trade-Offs in Duty-Cycled Systems for Air Quality Low-Cost Sensors",
+      "Development of a Hospital Air Quality Monitoring Application Utilizing IoT Technology and Google Workspace: A Case Study of a Hospital in Mahasarakham, Thailand."
+    ]
+  },
+  {
+    "serial_no": 122,
+    "real_title": "Intelligent Biosensors for Diabetic Wound Monitoring.",
+    "predicted_title": "Smart Wound Monitoring for Diabetic Chronic Wounds: A Review of Front-End Interface Engineering and Back-End Data Analysis.",
+    "retrieved_examples": [
+      "Light-adaptive Janus smart bandages empowered by deep learning for precise wound monitoring.",
+      "Emerging trends in amino acid detection: wearable devices and machine learning-assisted signal processing.",
+      "Secure IoMT smartwatch-based blood glucose monitoring using multimodal activity and nutrition data with transfer learning."
+    ]
+  },
+  {
+    "serial_no": 18,
+    "real_title": "The Patchkeeper: An Integrated Wearable Electronic Stethoscope with Multiple Sensors",
+    "predicted_title": "Wearable Electronic Stethoscope for Long-Term Internal Body Sound Recording and Complementary Sensor Integration for Telemedicine and Remote Diagnostics",
+    "retrieved_examples": [
+      "Design and Integration of IoT-Enabled Health Sensors for Remote Patient Monitoring",
+      "Wearable Hardware Design for the Internet of Medical Things (IoMT)",
+      "Wearable Hardware Design for the Internet of Medical Things (IoMT)"
+    ]
+  },
+  {
+    "serial_no": 29,
+    "real_title": "An Authentication Protocol for Future Sensor Networks",
+    "predicted_title": "Secure Mobile Sensor Network (SMSN) Authentication Protocol for Efficient Key Exchange and Concurrent Data Sessions in IoT-Integrated WSNs.",
+    "retrieved_examples": [
+      "A PUF-Based Secure and Lightweight Authentication Protocol for Medical IoT Environments.",
+      "SHIELD: Blockchain-Enabled Lightweight Authentication Framework for Secure Wearable Health Monitoring in IoMT Environments.",
+      "Lightweight signcryption scheme for Securing wearable sensor observed health data sharing in internet of medical things paradigm."
+    ]
+  },
+  {
+    "serial_no": 32,
+    "real_title": "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition",
+    "predicted_title": "Fog-Based IoT Platform for Resource-Efficient and Interactive Remote Patient Monitoring via Speech Recognition",
+    "retrieved_examples": [
+      "IoT Based Remote Patient Monitoring and Telemedicine Solutions for Accessible and Cost Effective Healthcare Services",
+      "IoT-Enabled Remote Patient Monitoring with AWS IoT Core",
+      "A Lightweight Blockchain and Fog-enabled Secure Remote Patient Monitoring System"
+    ]
+  },
+  {
+    "serial_no": 36,
+    "real_title": "Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey",
+    "predicted_title": "Spatio-Temporal Vision-Language Understanding for Remote Sensing: A Comprehensive Review of RS-STVLMs",
+    "retrieved_examples": [
+      "Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives",
+      "Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis",
+      "TimeSenCLIP: A Time Series Vision-Language Model for Remote Sensing"
+    ]
+  },
+  {
+    "serial_no": 95,
+    "real_title": "Development and Validation of an IMU Sensor-Based Behaviour-Alert Detection Collar for Assistance Dogs: A Proof-of-Concept Study.",
+    "predicted_title": "Wearable Behaviour-Alert Detection Collar for Trained Assistance Dogs in Epilepsy Monitoring: A Proof-of-Concept Study Using Machine Learning",
+    "retrieved_examples": [
+      "Chapter Name : Machine Learning Algorithms for Real Time ECG and EEG Signal Analysis in Wearable Devices",
+      "An IoMT‐Based Approach for Real‐Time Monitoring Using Wearable Neuro‐Sensors",
+      "Machine Learning-Based Tuning Algorithms for Neurostimulators and Deep Brain Implants"
+    ]
+  },
+  {
+    "serial_no": 4,
+    "real_title": "Security for the Industrial IoT: The Case for Information-Centric Networking",
+    "predicted_title": "Information Centric Networking for Secure and Robust Industrial IoT Safety Systems",
+    "retrieved_examples": [
+      "Introduction to IoT",
+      "Reinforcement learning driven edge-cloud coordination for secure and energy efficient IoMT.",
+      "Autonomous Low Power IoT System Architecture for Cybersecurity Monitoring"
+    ]
+  },
+  {
+    "serial_no": 15,
+    "real_title": "SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection",
+    "predicted_title": "Machine Learning-Driven Framework for Anomaly and Attack Detection in IoT-Enabled Healthcare Systems.",
+    "retrieved_examples": [
+      "Mapping Machine Learning-Driven Cybersecurity Solutions in Health Care: Scoping Literature Review.",
+      "An ensemble of deep representation learning with metaheuristic optimisation algorithm for critical health monitoring using internet of medical things.",
+      "CNN-BiLSTM-Based Hybrid Deep Learning for Multi-Metric Anomaly Detection and Mitigation in Secure IoMT Healthcare WBANs."
+    ]
+  },
+  {
+    "serial_no": 82,
+    "real_title": "An Intelligent IoT-Compatible Arrhythmia Detection System Using a Hybrid Vision Transformer-LSTM Framework.",
+    "predicted_title": "Hybrid Deep Learning Approach for IoT-Compatible Arrhythmia Classification using LSTM and Vision Transformer (HOVLSTM)",
+    "retrieved_examples": [
+      "Chapter Name : Machine Learning Algorithms for Real Time ECG and EEG Signal Analysis in Wearable Devices",
+      "Reliable ECG Anomaly Detection on Edge Devices for Internet of Medical Things Applications.",
+      "An ensemble of deep representation learning with metaheuristic optimisation algorithm for critical health monitoring using internet of medical things."
+    ]
+  }
+]
